@@ -1,6 +1,6 @@
 # JS30-20-voice-note
 
-![image: demonstration of voice note](https://github.com/ming-yong/JS30-16-boo/blob/master/voiceNote.gif)
+![image: demonstration of voice note](https://github.com/ming-yong/JS30-16-boo/blob/master/voice-note.gif)
 
 Note with speech recognition built with vanilla JS. You can [view demo here](https://ming-yong.github.io/JS30-20-voice-note/) or [view my blog post about this build here](https://ming-yong.github.io/blog/vanillajs/2019/09/11/15-voice-note/).
 
